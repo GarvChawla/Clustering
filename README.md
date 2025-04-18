@@ -13,7 +13,7 @@ Below are the tables displaying the clustering results for each algorithm:
 
 #### 1. **KMeans Clustering** Results
 
-![KMeans Clustering Table](./images/kmeans_table.png)
+![KMeans Clustering Table](./kmeans_table.png)
 
 #### 2. **Agglomerative Clustering** Results
 
