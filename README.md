@@ -17,21 +17,21 @@ Below are the tables displaying the clustering results for each algorithm:
 
 #### 2. **Agglomerative Clustering** Results
 
-![Agglomerative Clustering Table](./images/agglomerative_table.png)
+![Agglomerative Clustering Table](./agglomerative_table.png)
 
 #### 3. **DBSCAN Clustering** Results
 
-![DBSCAN Clustering Table](./images/dbscan_table.png)
+![DBSCAN Clustering Table](./dbscan_table.png)
 
 #### 4. **MeanShift Clustering** Results
 
-![MeanShift Clustering Table](./images/meanshift_table.png)
+![MeanShift Clustering Table](./meanshift_table.png)
 
 The results are visualized in boxplots, and tables are included for detailed metrics across different cluster counts and preprocessing techniques.
 
 #### 5. **GaussianMixture Clustering** Results
 
-![GaussianMixture Clustering Table](./images/gaussian_mixture_table.png)
+![GaussianMixture Clustering Table](./gaussian_mixture_table.png)
 
 ## Comparative Boxplots
 
@@ -39,15 +39,15 @@ Below are the comparative boxplots for the clustering algorithms based on the ev
 
 ### 1. Silhouette Score across Clustering Algorithms
 
-![Silhouette Score](./images/graph_silhouette.png)
+![Silhouette Score](./graph_silhouette.png)
 
 ### 2. Calinski-Harabasz Score across Clustering Algorithms
 
-![Calinski-Harabasz Score](./images/graph_calinski_harabasz.png)
+![Calinski-Harabasz Score](./graph_calinski_harabasz.png)
 
 ### 3. Davies-Bouldin Score across Clustering Algorithms
 
-![Davies-Bouldin Score](./images/graph_davies_bouldin.png)
+![Davies-Bouldin Score](./graph_davies_bouldin.png)
 
 ## Conclusion
 
